@@ -35,4 +35,4 @@ I am Yichen Gao, currently a master student in the School of Electronics Enginee
     - “Dream Cup" Dalian University of Technology Entrepreneurship Competition, 2015
 
 ---    
-**Contact ME** at [gaoyichen@pku.edu.cn](gaoyichen@pku.edu.cn)
+**Contact ME** at yichenirving@gmail.com
