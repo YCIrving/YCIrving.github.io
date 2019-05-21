@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yichen Gao"
 title_separator          : "-"
 name                     : &name "Gao Yichen"
-description              : &description "Master student in the Institute of Computer Science & Technology of Peking University"
+description              : &description "Master student in the School of Electronics Engineering and Computer Science, Peking University"
 url                      : https://ycirving.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ycirving.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yichen Gao"
   avatar           : "UncleDrew.jpg"
-  bio              : "Master student in the Institute of Computer Science & Technology of Peking University"
+  bio              : "Master student in the School of Electronics Engineering and Computer Science, Peking University"
   location         : "Peking University, Beijing, China"
   employer         :
   pubmed           : 
