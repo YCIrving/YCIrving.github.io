@@ -15,9 +15,9 @@ I am Yichen Gao, currently a master student in the School of Electronics Enginee
   
     To solve the problem of the use of Chinese fonts on embedded devices, this paper realizes an automatic Chinese fonts compress system based on the idea of multiplexing parts in Chinese glyphs. In the meanwhile, this project also proposes two algorithms that can be used during matching glyph parts: Three Features Matching and Overlap Matching.
 
-  - **_Anonymized as required_**
+  - **Automatic Generation of Chinese Vector Fonts via Deep Layout Inferring [Gao Y, Lian Z, Tang Y, et al]**
   
-    Designing a Chinese vector font library which can be used in real applications is very time-consuming, since the font library typically consists of large amounts of Chinese characters. To address this problem, we propose a data-driven system in which only a small number (about 10%) of characters need to be designed. 
+    Designing a Chinese vector font library which can be used in real applications is very time-consuming, since the font library typically consists of large amounts of Chinese characters. To address this problem, we propose a data-driven system in which only a small number (about 10%) of characters need to be designed. This work has been accepted by SIGGRAPH Asia 2019 Technical Briefs//. 2019: 33-36.
   
 # Education
   - Master Condidate in Computer Science (09/2017 - present) Institute of Computer Science and Technology, **Peking University**
